@@ -1,0 +1,45 @@
+/*CSS DOCUMENT */
+
+
+body {
+	background-color: #fafafa;
+	color: #333333;
+	font-family: avenir-lt-pro, sans-serif;
+	font-style: normal;
+	font-weight: 200;
+}
+
+div.container {
+	max-width: 40em;
+	margin: auto;
+}
+
+img {
+	width: 100%;
+}
+
+figure {
+	margin: 1em 0;
+}
+
+h1, h2, h3, h4, p, ul, ol, li {
+	margin: 0; 
+	padding:0.2em; 
+	font-size: 1em; 
+	font-weight: normal;
+}
+
+h1 {
+	font-size: 3em; 
+	font-weight:bold;
+}
+
+h2 {
+	font-size: 1.8em; 
+	font-weight: 600;
+}
+
+h3 {
+	font-size: 1.3em; 
+	font-weight: 400;
+}
