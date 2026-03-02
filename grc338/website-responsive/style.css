@@ -156,11 +156,12 @@ footer p {
 
 @media screen and (min-width: 60em) {
     ul{
-       display:grid;
+        display:grid;
         grid-template-columns: repeat(6 1fr);
+        display:inline;
     }
     body {  
-    background-color: rgb(220,1,1);}  
+        background-color: rgb(220,1,1);}  
 }
 
 article {
