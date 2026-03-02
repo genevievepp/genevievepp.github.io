@@ -33,8 +33,9 @@ header {
     display: grid;
     grid-template-columns: 1fr 2fr;
     background: rgb(204, 204, 204);
-    padding: 3em 0.5em 1.5em 0.5em;
+    padding: 1.5em 0.5em 1.5em 0.5em;
     margin:0em;
+    place-content: end;
 }
 
 h1 {
