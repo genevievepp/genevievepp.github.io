@@ -158,8 +158,7 @@ footer p {
     ul{
         display:grid;
         display:inline;
-        grid-template-columns: 1fr 2fr;
-        text-align: right;
+        grid-template-columns: repeat(6 1fr);
     }
     body {  
         background-color: rgb(220,1,1);}  
