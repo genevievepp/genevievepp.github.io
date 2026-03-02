@@ -158,6 +158,9 @@ footer p {
         display:grid;
         display:inline;
         grid-template-columns: 1fr 2fr;
+    }
+    header {
+        display: grid;
         justify-items: end;
     }
     body {  
