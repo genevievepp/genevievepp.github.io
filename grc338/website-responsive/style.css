@@ -157,8 +157,9 @@ footer p {
 @media screen and (min-width: 60em) {
     ul{
         display:grid;
-        grid-template-columns: repeat(6 1fr);
         display:inline;
+        grid-template-columns: 1fr 2fr;
+
     }
     body {  
         background-color: rgb(220,1,1);}  
