@@ -158,11 +158,9 @@ footer p {
         display:grid;
         display:inline;
         grid-template-columns: 1fr 2fr;
+        justify-content: end;
     }
-    header {
-        display: grid;
-        justify-items: end;
-    }
+    
     body {  
         background-color: rgb(220,1,1);}  
 }
