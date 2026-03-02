@@ -158,7 +158,8 @@ footer p {
         display:grid;
         display:inline;
         grid-template-columns: 1fr 2fr;
-        justify-content: right;
+        grid-column: 2/3;
+        justify-content: end;
     }
     
     body {  
