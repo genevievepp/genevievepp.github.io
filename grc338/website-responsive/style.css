@@ -35,7 +35,6 @@ header {
     background: rgb(204, 204, 204);
     padding: 1.5em 0.5em 1.5em 0.5em;
     margin:0em;
-    place-content: end;
 }
 
 h1 {
