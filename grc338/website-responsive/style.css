@@ -5,7 +5,8 @@ div.home-container {
     background-size: cover;
     position: relative;
     min-height: 100vh;
-    max-width: 60em;
+    max-width: 85em;
+    margin: auto;
 }
 
 div.container { 
