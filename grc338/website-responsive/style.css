@@ -157,6 +157,7 @@ footer p {
         display:grid;
         display:inline;
         grid-template-columns: 1fr 1fr 1fr 1fr;
+        place-self: end;
     }
     
     body {  
