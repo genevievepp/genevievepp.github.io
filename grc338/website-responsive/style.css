@@ -155,11 +155,8 @@ footer p {
 }
 
 @media screen and (min-width: 60em) {
-    nav ul{
-        display:grid;
+    nav ul li{
         display:inline;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-        place-self: end;
     }
     
     body {  
