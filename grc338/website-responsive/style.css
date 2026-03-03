@@ -115,6 +115,7 @@ nav ul li {
     font-weight: bold;
     display: inline;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-bottom: 1em;
 }
 
 nav ul li a {
