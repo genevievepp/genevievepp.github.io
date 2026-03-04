@@ -105,22 +105,17 @@ p.price {
     margin: 0em;
 }
 
-/* section{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-} */
-
 nav ul li {
     text-transform: uppercase;
     font-weight: bold;
     display: inline;
+    margin: 1em 0em 1em 0em;
 }
 
 nav ul li a {
     color: rgb(255,255,56);
     background-color: rgb(0,5,251);
     padding: 0.4em 0.4em;
-    margin: 1em 0em 1em 0em;
 }
 
 nav ul li.selected a { 
