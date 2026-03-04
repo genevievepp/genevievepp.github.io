@@ -108,7 +108,6 @@ p.price {
 nav ul li {
     text-transform: uppercase;
     font-weight: bold;
-    display: inline;
     margin: 1em 0em 1em 0em;
 }
 
@@ -149,7 +148,7 @@ footer p {
     margin: 0;
 }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 40em) {
     nav ul li{
         display:inline;
     }
