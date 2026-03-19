@@ -111,7 +111,9 @@ p.price {
 
 nav ul li {
     text-transform: uppercase;
-    font-weight: bold;
+    font-family: goodlife-serif, sans-serif;
+    font-weight: 700;
+    font-style: normal;
     margin: 1em 0em 1em 0em;
 }
 
