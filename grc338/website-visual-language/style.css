@@ -46,6 +46,8 @@ h1 {
 }
 
 h2, h3, h4 {
+    font-family: goodlife, serif;
+    font-style: serif;
     font-weight: bold;
 }
 
